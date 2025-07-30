@@ -1,5 +1,6 @@
 return {
   "olexsmir/gopher.nvim",
+  commit = "a5becfc3299920129ab38eab74565b80b1a847d5",
   event = "VeryLazy",
   ft = "go",
   config = function()
