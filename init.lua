@@ -31,6 +31,7 @@ spec.insert("plugins.trouble")
 spec.insert("plugins.dressing")
 spec.insert("plugins.git")
 spec.insert("plugins.gitgraph")
+spec.insert("plugins.lsp.dart_data_class")
 
 -- Bootstrap lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
